@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvvmcross-tabs", "mvvmcross-tabs\mvvmcross-tabs.csproj", "{AFA6A106-806D-46B4-9764-DF773215547A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvvmcross-tabs.Droid", "Droid\mvvmcross-tabs.Droid.csproj", "{682F67FA-DA94-4189-B7CD-845BBE45A533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA6A106-806D-46B4-9764-DF773215547A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA6A106-806D-46B4-9764-DF773215547A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA6A106-806D-46B4-9764-DF773215547A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA6A106-806D-46B4-9764-DF773215547A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{682F67FA-DA94-4189-B7CD-845BBE45A533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682F67FA-DA94-4189-B7CD-845BBE45A533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682F67FA-DA94-4189-B7CD-845BBE45A533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682F67FA-DA94-4189-B7CD-845BBE45A533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
